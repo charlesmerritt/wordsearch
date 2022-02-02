@@ -4,12 +4,3 @@ format of a JSON file. In creating this program, I used web references from www.
 and find new methods and functions to use and help me with this program as well as to get the correct syntax.
 I utilized additional resources from the textbook https://automatetheboringstuff.com/ and from the class and content
 of Professor Parasuraman.
-
-
-System.out.print("string")
-print("String")
-print()
-Var = asnansans
-Bool assignmentVar = True;
-list = []
-
