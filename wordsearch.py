@@ -29,7 +29,9 @@ def main():
 
     # The required search(word) method call...
 
-    search(wordpuzzle, 'CAT')
+    # search(wordpuzzle, 'CAT')
+    for word in wordbank:
+        search(wordpuzzle, word)
 
 def bank_check(temp, word):
     # helper method that goes through the temp string generated in the search methods and checks whether or not
